@@ -1,0 +1,3 @@
+soma da 0 linha--> 1318399448  soma da 0 coluna--> -938895754  
+soma da 1 linha--> 32759  soma da 1 coluna--> 657  
+soma da 2 linha--> -938928576  soma da 2 coluna--> 1318398729  
